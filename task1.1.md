@@ -41,4 +41,8 @@ listas
 + Or pluses
 
 enlaces 
-[no lo abras](https://cdn.memegenerator.es/imagenes/memes/full/1/80/1801838.jpg)
+```
+[para el texto que salga](link al que mandara al usuario)
+
+```
+[https://www.no_lo_abras.com](https://cdn.memegenerator.es/imagenes/memes/full/1/80/1801838.jpg)
