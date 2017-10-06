@@ -30,9 +30,12 @@ para escribir en cursiba utilizaremos _
  _underscores_
 
 listas 
-1. Fptata 
-2. oberdose
-⋅⋅* DNA 
-1. Best Of Me
-⋅⋅1. Lotto
-4. Blod Sweat And Tears
+1. paptata.
+2. oberdose.
+* DNA.
+1. Best Of Me.
+* lotto.
+4. Blod Sweat And Tears.
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
